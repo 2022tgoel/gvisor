@@ -88,6 +88,7 @@ const (
 	AMPERE_COMPUTE_B                 = 0x0000c7c0
 	HOPPER_CHANNEL_GPFIFO_A          = 0x0000c86f
 	HOPPER_DMA_COPY_A                = 0x0000c8b5
+	ADA_A                            = 0x0000c997
 	ADA_COMPUTE_A                    = 0x0000c9c0
 	NV_CONFIDENTIAL_COMPUTE          = 0x0000cb33
 	HOPPER_SEC2_WORK_LAUNCH_A        = 0x0000cba2
